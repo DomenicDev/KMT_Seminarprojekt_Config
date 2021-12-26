@@ -1,0 +1,4 @@
+
+logging:
+  level:
+    de.cassisi.calculator: WARN
