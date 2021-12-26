@@ -1,4 +1,4 @@
-
+myval: HelloDomi
 logging:
   level:
     de.cassisi.calculator: WARN
